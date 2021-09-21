@@ -1,4 +1,4 @@
-# PokemonFRLGRSEInitialSeedsFinder
+# Pokemon FRLGRSE Initial Seeds Finder
 Simple tool useful to search many Initial Seeds for a given seed.
 
 ## Usage
